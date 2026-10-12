@@ -1,0 +1,15 @@
+.venv/
+site/
+.obsidian/
+.env
+.env.*
+*.log
+config.toml
+credentials.json
+
+.tools/
+.private/
+.production/
+.pip-cache/
+.virtualenv-cache/
+virtualenv.pyz

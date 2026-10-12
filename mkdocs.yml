@@ -1,0 +1,10 @@
+site_name: SICIC Week 1 Portfolio
+theme:
+  name: material
+  font: false
+nav:
+  - Home: index.md
+  - Agent identity: agent/soul.md
+  - Research procedure: agent/skill.md
+  - Selected result: showcase/first-result.md
+  - Troubleshooting: troubleshooting.md
