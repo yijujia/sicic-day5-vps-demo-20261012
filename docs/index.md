@@ -14,3 +14,7 @@ I choose the task and check the sources. Publishing, sending messages and connec
 - [Research procedure](agent/skill.md)
 - [Selected result and checks](showcase/first-result.md)
 - [Troubleshooting](troubleshooting.md)
+
+## My VPS publication check
+
+I built and published this portfolio from my VPS, checked the public navigation, and confirmed this update on the live site. GitHub Pages hosts the website; my VPS does not need a public website port.
